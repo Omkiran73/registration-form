@@ -55,6 +55,3 @@
     </div>
   </div>
 </section>
-
-
-<!----------Designed By Pradeep Singh Tomar------------>
